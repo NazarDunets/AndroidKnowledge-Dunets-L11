@@ -19,17 +19,17 @@
 
     <string name="notifications_fragment_title">NOTIFICATIONS</string>
     <string name="notifications_waiting">Waiting…</string>
-    <string name="n_simple">SMPL</string>
-    <string name="n_action">ACTN</string>
-    <string name="n_reply">RPL</string>
-    <string name="n_progress">PRGRS</string>
+    <string name="n_simple">S</string>
+    <string name="n_action">A</string>
+    <string name="n_reply">R</string>
+    <string name="n_progress">P</string>
 
     <string name="intents_title">INTENTS</string>
-    <string name="i_extras">Extras</string>
-    <string name="i_maps">Maps</string>
+    <string name="i_extras">E</string>
+    <string name="i_maps">M</string>
 
     <string name="broadcasts_title">BROADCASTS</string>
-    <string name="b_send">Send a broadcast</string>
+    <string name="b_send">S</string>
     <string name="broadcasts_hint">Try turning the WiFi off</string>
     <string name="wifi_on">WiFi is ON</string>
     <string name="wifi_off">WiFi is OFF</string>
