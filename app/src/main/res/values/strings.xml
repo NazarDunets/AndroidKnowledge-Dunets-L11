@@ -1,0 +1,37 @@
+<resources>
+
+    <string name="app_name">AndroidKnowledge-Dunets-L11</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="channel_name">Main Notification Channel</string>
+    <string name="channel_description">Channel used for general notifications</string>
+
+    <string name="s_channel_name">Secondary Notification Channel</string>
+    <string name="s_channel_description">Channel used for silent notifications</string>
+
+    <string name="notification_button_text">Open</string>
+    <string name="placeholder_title">Placeholder</string>
+    <string name="placeholder_content">Lorem ipsum bla bla bla</string>
+    <string name="reply_label">Enter a message…</string>
+    <string name="reply_action_title">Reply</string>
+    <string name="reply_sent_label">Reply sent</string>
+
+    <string name="notifications_fragment_title">NOTIFICATIONS</string>
+    <string name="notifications_waiting">Waiting…</string>
+    <string name="n_simple">SMPL</string>
+    <string name="n_action">ACTN</string>
+    <string name="n_reply">RPL</string>
+    <string name="n_progress">PRGRS</string>
+
+    <string name="intents_title">INTENTS</string>
+    <string name="i_extras">Extras</string>
+    <string name="i_maps">Maps</string>
+
+    <string name="broadcasts_title">BROADCASTS</string>
+    <string name="b_send">Send a broadcast</string>
+    <string name="broadcasts_hint">Try turning the WiFi off</string>
+    <string name="wifi_on">WiFi is ON</string>
+    <string name="wifi_off">WiFi is OFF</string>
+
+</resources>
